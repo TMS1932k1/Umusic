@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "287447295424",
+    "project_id": "onmusic-9aaad",
+    "storage_bucket": "onmusic-9aaad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287447295424:android:f2124c8f34a5e71d001425",
+        "android_client_info": {
+          "package_name": "com.example.music_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287447295424-agdgpnh5ibhs20djo88gjpdh0ormhhqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCslWoyvnuTCPSgLdNy7z-yBAFnR5pHr3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287447295424-agdgpnh5ibhs20djo88gjpdh0ormhhqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287447295424:android:d336fa952c5c6288001425",
+        "android_client_info": {
+          "package_name": "com.example.umusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287447295424-agdgpnh5ibhs20djo88gjpdh0ormhhqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCslWoyvnuTCPSgLdNy7z-yBAFnR5pHr3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287447295424-agdgpnh5ibhs20djo88gjpdh0ormhhqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
